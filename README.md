@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Olá, eu sou o Guilherme!
+Bem-vindo ao meu perfil! 🚀
+Atualmente focado em construir uma carreira como Desenvolvedor Backend Java, trabalhando em projetos pessoais e freelances com o objetivo de me libertar da CLT.
+🌱 O que estou estudando atualmente
 
-<!--
-**Guilhermindo67/guilhermindo67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java + Spring Boot
+APIs REST
+Microsserviços
+Banco de dados (MySQL / PostgreSQL)
+Segurança (Spring Security + JWT)
+Testes automatizados
 
-Here are some ideas to get you started:
+🔭 Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nome do Projeto 1 → Breve descrição (2 linhas)
+Nome do Projeto 2 → Breve descrição
+Kishib Backend → API completa com Spring Boot + Flyway + Spring Security
+
+💼 Procurando
+
+Oportunidades freelance (Backend Java / Spring Boot)
+Colaborações em projetos open source
+Networking com outros devs Java
+
+🛠️ Tecnologias que utilizo
+
+
+
+📫 Como falar comigo
+
+LinkedIn: seu-linkedin
+Email: seuemail@gmail.com
+Instagram (opcional): @seuuser
