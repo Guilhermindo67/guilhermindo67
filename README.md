@@ -5,29 +5,32 @@ Atualmente focado em construir uma carreira como Desenvolvedor Backend Java, tra
 
 Java + Spring Boot
 APIs REST
-Microsserviços
 Banco de dados (MySQL / PostgreSQL)
 Segurança (Spring Security + JWT)
 Testes automatizados
 
 🔭 Projetos em destaque
 
-Nome do Projeto 1 → Breve descrição (2 linhas)
-Nome do Projeto 2 → Breve descrição
-Kishib Backend → API completa com Spring Boot + Flyway + Spring Security
+Bot de Ofertas do Mercado Livre → Busca automática de produtos em promoção via scraping, processa JSON e envia mensagens para grupo.
+Landing Page, Associação Casa Betel 2 → Desenvolvi do zero a landing page institucional da Associação Casa Betel. Realizei prospecção, visita presencial, levantamento de requisitos e fechei a venda do projeto
 
 💼 Procurando
 
+Oportunidades de estágio/junior
 Oportunidades freelance (Backend Java / Spring Boot)
 Colaborações em projetos open source
 Networking com outros devs Java
 
 🛠️ Tecnologias que utilizo
 
-
+Java + SpringBoot
+HTML + CSS
+Js + React
+Docker
+Github
 
 📫 Como falar comigo
 
-LinkedIn: seu-linkedin
-Email: seuemail@gmail.com
-Instagram (opcional): @seuuser
+LinkedIn: www.linkedin.com/in/guilherme-almeida-bezerra
+Email: guilhermindo67@gmail.com
+Instagram (opcional): @almeida_guiiz
