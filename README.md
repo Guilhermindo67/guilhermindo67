@@ -33,4 +33,4 @@ Github
 
 LinkedIn: www.linkedin.com/in/guilherme-almeida-bezerra
 Email: guilhermindo67@gmail.com
-Instagram (opcional): @almeida_guiiz
+Instagram: @almeida_guiiz
