@@ -1,29 +1,27 @@
 👋 Olá, eu sou o Guilherme!
 Bem-vindo ao meu perfil! 🚀
-Atualmente focado em construir uma carreira como Desenvolvedor Backend Java, trabalhando em projetos pessoais e freelances com o objetivo de me libertar da CLT.
+Atualmente focado em construir uma carreira como Desenvolvedor.
 🌱 O que estou estudando atualmente
 
-Java + Spring Boot
+C# / .Net
 APIs REST
-Banco de dados (MySQL / PostgreSQL)
-Segurança (Spring Security + JWT)
-Testes automatizados
+Banco de dados (PostgreSQL)
 
 🔭 Projetos em destaque
 
-Bot de Ofertas do Mercado Livre → Busca automática de produtos em promoção via scraping, processa JSON e envia mensagens para grupo.
+(JAVA) Bot de Ofertas do Mercado Livre → Busca automática de produtos em promoção via scraping, processa JSON e envia mensagens para grupo.
 Landing Page, Associação Casa Betel 2 → Desenvolvi do zero a landing page institucional da Associação Casa Betel. Realizei prospecção, visita presencial, levantamento de requisitos e fechei a venda do projeto
 
 💼 Procurando
 
-Oportunidades de estágio/junior
-Oportunidades freelance (Backend Java / Spring Boot)
+Oportunidades de junior
+Oportunidades freelance (C#)
 Colaborações em projetos open source
-Networking com outros devs Java
+Networking com outros devs C#
 
 🛠️ Tecnologias que utilizo
 
-Java + SpringBoot
+C# / .Net
 HTML + CSS
 Js + React
 Docker
